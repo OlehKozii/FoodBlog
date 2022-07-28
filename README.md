@@ -1,2 +1,2 @@
 # FoodBlog
-This project use MongoDB, Nest.js, React, Node.js
+This project use MongoDB, Nest.js/Express.js, React, Node.js
